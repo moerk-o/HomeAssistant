@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2023.1+-green.svg)
 
-WhenHub ist eine Home Assistant Integration zum Verfolgen verschiedener Events und wichtiger Termine. Die Integration stellt intelligente Countdown-Sensoren, Status-Informationen und visuelle Darstellungen für deine Events bereit.
+WhenHub ist eine Home Assistant Integration zum Verfolgen verschiedener Events und wichtiger Termine. Die Integration stellt Countdown-Sensoren, Status-Informationen und visuelle Darstellungen für deine Events bereit.
 
 ## Überblick
 
